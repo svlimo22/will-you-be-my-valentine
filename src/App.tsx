@@ -46,7 +46,7 @@ export default function Page() {
             className="h-[200px]"
             src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwMHE2anFmYzRrZG96NG9yeGQybmxobTEzdmd2MW50ODA2cmhzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITacRy2zH4vMQ/giphy.gif"
           />
-          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
+          <h1 className="my-4 text-4xl">Will you be my Valentine hermosita?</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}
