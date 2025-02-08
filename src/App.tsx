@@ -14,16 +14,16 @@ export default function Page() {
     const phrases = [
       "No",
       "Are you sure?",
-      "What if I asked really nicely?",
-      "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
-      "PLEASE POOKIE",
-      "But :*(",
-      "I am going to die",
-      "Yep im dead",
-      "ok ur talking to nathan's ghost",
-      "please babe",
+      "Bah nn",
+      "My rules",
+      "other button hermosa",
+      "ok stop teasing now",
+      "PLEASE",
+      "But :(",
+      "why crybaby",
+      "You're killing me",
+      "mdrr ok non serieux",
+      "habeltini",
       ":((((",
       "PRETTY PLEASE",
       "Estoy muerto",
@@ -37,14 +37,14 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtnZ3AyMTNqOThiM2gzZmhyODJweTBnbWJiOWZkY3E3bHRlODVtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" />
+          <div className="my-4 text-4xl font-bold"TY HERMOSITA<3</div>
         </>
       ) : (
         <>
           <img
             className="h-[200px]"
-            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwMHE2anFmYzRrZG96NG9yeGQybmxobTEzdmd2MW50ODA2cmhzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITacRy2zH4vMQ/giphy.gif"
           />
           <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
           <div className="flex items-center">
